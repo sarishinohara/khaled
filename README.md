@@ -1,5 +1,4 @@
 # khaled
-Dj Khaled fortunes for fortune(6).
 
+Another one.
 
-Feel free to PR more quotes ~
